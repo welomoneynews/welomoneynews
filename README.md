@@ -96,17 +96,6 @@ https://www.facebook.com/welomoney/
 - Stock Market Resources
 - Investment Learning Resources
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=welomoneynews&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welomoneynews&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
