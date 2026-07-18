@@ -4,8 +4,7 @@
 
 ### 🇮🇳 India's Trusted Financial News Platform
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1200&color=0077FF&center=true&vCenter=true&width=950&lines=📈+Stock+Market+News;🏦+IPO+Updates;🚀+Startup+Funding;🌍+Business+%26+Economy;💹+Market+Analysis;💰+Investment+Insights;📰+Breaking+Financial+News;⭐+Trusted+by+Investors" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&color=0077FF&center=true&vCenter=true&width=900&lines=Stock+Market+News;IPO+Updates;Startup+Funding;Business+and+Economy;Market+Analysis;Investment+Insights;Breaking+Financial+News;Trusted+by+Investors" alt="Typing SVG" />
 <br>
 
 <a href="https://welomoney.com">
